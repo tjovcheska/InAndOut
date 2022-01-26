@@ -435,3 +435,8 @@ C:\Users\Asus\source\repos\InAndOut\InAndOut\obj\Debug\net5.0\Razor\Views\Expens
 C:\Users\Asus\source\repos\InAndOut\InAndOut\obj\Debug\net5.0\Razor\Views\Expense\Index.cshtml.g.cs
 C:\Users\Asus\source\repos\InAndOut\InAndOut\obj\Debug\net5.0\Razor\Views\Expense\Delete.cshtml.g.cs
 C:\Users\Asus\source\repos\InAndOut\InAndOut\obj\Debug\net5.0\Razor\Views\Expense\Update.cshtml.g.cs
+C:\Users\Asus\source\repos\InAndOut\InAndOut\obj\Debug\net5.0\Razor\Views\ExpenseType\Create.cshtml.g.cs
+C:\Users\Asus\source\repos\InAndOut\InAndOut\obj\Debug\net5.0\Razor\Views\ExpenseType\Delete.cshtml.g.cs
+C:\Users\Asus\source\repos\InAndOut\InAndOut\obj\Debug\net5.0\Razor\Views\ExpenseType\Index.cshtml.g.cs
+C:\Users\Asus\source\repos\InAndOut\InAndOut\obj\Debug\net5.0\Razor\Views\ExpenseType\Index1.cshtml.g.cs
+C:\Users\Asus\source\repos\InAndOut\InAndOut\obj\Debug\net5.0\Razor\Views\ExpenseType\Update.cshtml.g.cs

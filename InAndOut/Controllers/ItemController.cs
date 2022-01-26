@@ -19,12 +19,13 @@ namespace InAndOut.Controllers
             IEnumerable<Item> objList = _db.Items;
             return View(objList);
         }
-
+        //GET-Greate
         public IActionResult Create()
         {
             return View();
         }
 
+        //POST-Create
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Create(Item obj)
